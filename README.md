@@ -5,7 +5,7 @@ We developed a Process Scheduling System using C on Linux OS, designed to manage
 
 ## Features
 - **UI**: The system features a user-friendly interface for interaction and monitoring.
-  ![image](https://github.com/user-attachments/assets/d25f6fa7-d29c-403a-930c-f74fd5d7ba89)
+![image](https://github.com/user-attachments/assets/a0c04841-5d17-4ba8-82b4-5d0d057f0447)
 - **Scheduling Algorithms**: 
   - **FCFS**: Processes are scheduled in the order they arrive in the ready queue.
   - **RR**: Processes are assigned a fixed time slice in a circular order, ensuring fair allocation of CPU time.
