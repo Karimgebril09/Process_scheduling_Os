@@ -1,0 +1,3 @@
+/home/mazen/Desktop/Phase2Finished/Project3_Final/Phase1/code/cmake-build-debug/CMakeFiles/code.dir
+/home/mazen/Desktop/Phase2Finished/Project3_Final/Phase1/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mazen/Desktop/Phase2Finished/Project3_Final/Phase1/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
